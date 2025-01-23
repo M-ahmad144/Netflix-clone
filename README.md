@@ -1,6 +1,6 @@
 # Netflix Clone MERN
 
-[![Demo](https://netflix-askhan.netlify.app/)](https://netflix-askhan.netlify.app/)
+
 
 ## Overview
 
